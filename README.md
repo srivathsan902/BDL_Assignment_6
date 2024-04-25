@@ -14,6 +14,8 @@ To run `task_1`: put `python task_1.py MODEL` in command line.
 
 To run `task_2`: put `python task_2.py MODEL` in command line.
 
+Use `Task_1_Images` for uploading while testing task 1, and `Task_2_Images` for uploading while testing task 2. If you try uploading `Task_2_Images`to task 1, you will receive an error saying invalid image size as expected as task 1 expects only 28x28 images.
+
 
 ## Helpful Links
 * [Official Documentation for FastAPI](https://fastapi.tiangolo.com/)
